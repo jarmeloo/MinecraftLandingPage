@@ -82,8 +82,3 @@ Este projeto foi minha introdução ao mundo do **Web3D**. Durante o desenvolvim
 ## 🔗 Autor
 
 Feito por **Johann Jarmelo** 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a7c3f,100:1a3a1a&height=100&section=footer" />
-</div>
