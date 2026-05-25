@@ -48,7 +48,7 @@ Landing page temática do **Minecraft** com uma abelha 3D animada que acompanha 
 
 Acesse diretamente pelo GitHub Pages:
 
-[Ver Projeto](https://jarmeloo.github.io/DisneyPlusCards/)
+[Ver Projeto](https://jarmeloo.github.io/MinecraftLandingPage/)
 
 Ou, se preferir rodar localmente:
 
