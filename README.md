@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a1a,100:4a7c3f&height=200&section=header&text=Minecraft%20Landing%20Page&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,100:639922&height=200&section=header&text=Minecraft%20Landing%20Page&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
 
 </div>
 
