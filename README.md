@@ -20,9 +20,7 @@
 ## 🐝 Sobre o Projeto
 
 Landing page temática do **Minecraft** com uma abelha 3D animada que acompanha o scroll da página. Projeto desenvolvido durante meus primeiros estudos em **Web3D**, explorando renderização 3D no browser com Three.js e animações de scroll com GSAP.
-
-> 🌱 *Este é um dos meus primeiros projetos com Web3D — ainda estou aprendendo e evoluindo!*
-
+> Para uma melhor experiência e visualização do projeto, recomendo acessá-lo em um desktop.
 ---
 
 ## ✨ Funcionalidades
@@ -31,7 +29,6 @@ Landing page temática do **Minecraft** com uma abelha 3D animada que acompanha 
 - 📜 **Scroll animado** — a abelha se move pela tela conforme o usuário rola a página, usando GSAP ScrollTrigger
 - 🎨 **Estética Minecraft** — fontes customizadas, background e UI no estilo do jogo
 - 💡 **Iluminação 3D** — luz ambiente + luz direcional para dar profundidade ao modelo
-- 📱 **Responsivo** — adaptado para diferentes tamanhos de tela
 
 ---
 
@@ -47,41 +44,26 @@ Landing page temática do **Minecraft** com uma abelha 3D animada que acompanha 
 
 ---
 
-## 📁 Estrutura do Projeto
+## ⚙️ Como acessar o projeto
 
-```
-minecraft-landing-page/
-├── assets/
-│   ├── bee_minecraft.glb     # Modelo 3D da abelha
-│   ├── bg.webp               # Background do Minecraft
-│   ├── favicon.svg
-│   ├── Minecrafter.Reg.ttf   # Fonte principal
-│   └── Minecraft.ttf         # Fonte secundária
-├── index.html
-├── script.js                 # Lógica Three.js + GSAP
-├── style.css
-└── README.md
-```
+Acesse diretamente pelo GitHub Pages:
 
----
+[Ver Projeto](https://jarmeloo.github.io/DisneyPlusCards/)
 
-## 🚀 Como Rodar Localmente
+Ou, se preferir rodar localmente:
 
-> ⚠️ Por usar `import` ES Modules e carregar arquivos `.glb`, o projeto precisa de um servidor local para funcionar.
+1. Clone o repositório:
 
-**Com VS Code:**
-1. Instale a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-2. Clique com botão direito no `index.html` → **Open with Live Server**
-
-**Com Node.js:**
 ```bash
-npx serve .
+git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
-**Com Python:**
+2. Abra o arquivo:
+
 ```bash
-python -m http.server 8000
+index.html
 ```
+3. Ou use uma extensão tipo **Live Server** no VS Code
 
 ---
 
@@ -99,12 +81,7 @@ Este projeto foi minha introdução ao mundo do **Web3D**. Durante o desenvolvim
 
 ## 🔗 Autor
 
-Feito por **Johann Jarmelo** — estudante de Ciências da Computação apaixonado por interfaces criativas.
-
-[![Portfólio](https://img.shields.io/badge/💼_Portfólio-005bc5?style=for-the-badge)](https://jarmeloo.github.io/portifolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannjarmelo/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarmeloo)
-
+Feito por **Johann Jarmelo** 
 ---
 
 <div align="center">
