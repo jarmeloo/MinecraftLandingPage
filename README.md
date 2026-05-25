@@ -79,6 +79,12 @@ Este projeto foi minha introdução ao mundo do **Web3D**. Durante o desenvolvim
 
 ---
 
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
 ## 🔗 Autor
 
 Feito por **Johann Jarmelo** 
