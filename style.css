@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "mine_font";
+    src: url(assets/Minecrafter.Reg.ttf);
+}
+
+@font-face {
+    font-family: "mine_font2";
+    src: url(assets/Minecraft.ttf);
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.divPai{
+    width: 100vw;
+    background-image: url("assets/bg.webp");
+    background-size: cover;
+    color : rgba(255, 255, 255, 0.9);
+}
+
+h1,h2{
+    font-family: "mine_font", sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-family: "mine_font2", sans-serif;
+}
+
+.divAbelha{
+    width: 100vw;
+    position: absolute;
+    height: 200vh;
+
+    .abelha{
+        position: sticky;
+        top: 0;
+    }
+}
+
+section{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mensagem{
+    background-color: rgb(85, 85, 85);
+    padding: 1vw 1.2vw;
+    border: .3vw solid black;
+    box-shadow: 3px 3px 0px rgba(255, 255, 255, 0.357) inset, -3px -3px 0px rgba(0, 0, 0, 0.5) inset;
+    font-size: 1vw;
+}
+
+.sec1{
+
+    gap: 2vw;
+
+    h1{
+    font-size: 6vw;
+    -webkit-text-stroke: .2vw;
+    -webkit-text-stroke-color: black;
+    }
+}
+
+
+.sec2{
+
+    align-items: end;
+    padding: 4vw;
+
+
+    h2{
+        font-size: 7vw;
+        -webkit-text-stroke: .2vw;
+        -webkit-text-stroke-color: black;
+    }
+
+    h2:nth-child(1){
+        text-align: end;
+
+    }
+}
+
+
+.sec3{
+    gap: 1vw;
+    font-size: 2vw;
+
+
+    h2{
+        -webkit-text-stroke: .1vw;
+        -webkit-text-stroke-color: black;
+        text-align: center;
+        text-align: center;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        padding: 1vw 1vw;
+    }
+}
+
+.bnt{
+    font-family: mine_font2, sans-serif;
+    font-size: 1.3vw;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* Media Queries */
+@media screen and (max-width: 767px) {
+    .sec1 h1 {
+        font-size: 12vw;
+    }
+
+    .sec2 h2 {
+        font-size: 10vw;
+    }
+
+    .sec3 h2 {
+        font-size: 7vw;
+    }
+
+    .mensagem {
+        font-size: 3vw;
+    }
+
+    .bnt {
+        font-size: 5vw;
+    }
+}
