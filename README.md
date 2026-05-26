@@ -16,9 +16,9 @@
 </div>
 
 ---
-  
-- [Visualizar Projeto](#-como-acessar-o-projeto)
-  
+  <p align="center">
+  <a href="#como-acessar-o-projeto">Visualizar Projeto</a> •
+  </p>
 ---
 
 ## 🐝 Sobre o Projeto
