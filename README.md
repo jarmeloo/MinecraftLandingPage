@@ -50,7 +50,7 @@ Landing page temática do **Minecraft** com uma abelha 3D animada que acompanha 
 
 ---
 
-## ⚙️ Como acessar o projeto
+<h2 id="como-acessar-o-projeto">⚙️ Como acessar o projeto</h2>
 
 Acesse diretamente pelo GitHub Pages:
 
