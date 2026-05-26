@@ -18,7 +18,7 @@
 ---
 
   <p align="center">
-  <a href="#como-acessar-o-projeto">Visualizar Projeto</a>
+  <a href="#como_acessar_o_projeto">Visualizar Projeto</a>
   </p>
   
 ---
